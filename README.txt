@@ -22,19 +22,19 @@ El siguiente es un ejemplo para el endpoint api/Torneo/TorneoMasculino:
     "velocidad": 33
   },
 {
-    "nombre": "Carlos ",
+    "nombre": "Carlos Valentin",
     "habilidad": 20,
     "fuerza": 80,
     "velocidad": 45
   },
 {
-    "nombre": "string",
+    "nombre": "Julian Perez",
     "habilidad": 60,
     "fuerza": 44,
     "velocidad": 38
   },
 {
-    "nombre": "string",
+    "nombre": "Eugenio Quispe",
     "habilidad": 90,
     "fuerza": 10,
     "velocidad": 70
